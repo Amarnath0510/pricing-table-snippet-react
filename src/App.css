@@ -46,7 +46,12 @@
  border-radius: 10px;
  background-color: royalblue;
  margin:8rem;
+ transition:1s;
+ 
 
+}
+.bill-container:hover{
+  transform: scale(1.1);
 }
 body{
   background:white;
